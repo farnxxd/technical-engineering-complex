@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">TEC</string>
+    <string name="app_name_fa">مجتمع فنی و مهندسی</string>
+    <string name="location">دانشگاه آزاد اسلامی رشت</string>
+
+    <!-- Navigation labels -->
+    <string name="home">خانه</string>
+    <string name="groups">گروه‌ها</string>
+    <string name="contact">تماس با ما</string>
+
+    <!-- GroupScreen -->
+    <string name="group_field">مهندسی %1s</string>
+    <string name="dean_of_faculty">مدیر گروه</string>
+    <string name="academics">هیئت علمی</string>
+    <string name="authorities">کارشناس آموزش</string>
+    <string name="fields">رشته‌ها</string>
+    <string name="choice_hint">از قسمت سربرگ می‌توانید گروه‌های دیگر را انتخاب و مشاهده کنید</string>
+
+    <!-- Groups' titles -->
+    <string name="computer">کامپیوتر</string>
+    <string name="electrical_and_mechanical">برق و مکانیک</string>
+    <string name="civil">عمران</string>
+    <string name="architectural">معماری</string>
+
+    <!-- Members' information -->
+    <string name="doctor">دکتر</string>
+    <string name="degree">دکتری تخصصی</string>
+    <string name="field_and_interest">مهندسی %1s گرایش %2s</string>
+    <string name="phone_number">داخلی: %1s</string>
+    <string name="send_email">ارسال ایمیل</string>
+    <string name="call_phone">تماس تلفنی</string>
+
+    <!-- Interests' representation -->
+    <string name="interest">مهندسی %1s - %2s</string>
+
+    <!-- HomeScreen headers -->
+    <string name="complex_history">تاریخچه دانشکده</string>
+    <string name="complex_history_description">مجتمع فنی و مهندسی در تاریخ 11 خرداد 1383 به عنوان بخشی از دانشکده تحصیلات تکمیلی و فنی در واحد علوم و تحقیقات گیلان ایجاد شد. از سال 1393 پس از ادغام واحد علوم و تحقیقات گیلان در واحد رشت، این بخش با نام مجتمع فنی و مهندسی مستقل گردید.</string>
+
+    <string name="dean_of_complex">رئیس دانشکده</string>
+    <string name="former_deans">رؤسای پیشین</string>
+
+    <string name="in_a_glimpse">دانشکده در یک نگاه</string>
+    <string name="number">آمار کلی تعداد %1s</string>
+    <string name="students">دانشجو</string>
+    <string name="employees">کارکنان</string>
+    <string name="educational_groups">گروه آموزشی</string>
+
+    <string name="facilities">امکانات</string>
+    <string name="classrooms">کلاس آموزشی</string>
+    <string name="computer_sites">سایت کامپیوتر</string>
+    <string name="architectural_atelier">آتلیه معماری</string>
+    <string name="civil_laboratory">آزمایشگاه عمران</string>
+    <string name="electrical_laboratory">آزمایشگاه  برق</string>
+    <string name="mechanical_workshop">کارگاه مکانیک</string>
+
+    <!-- AboutScreen -->
+    <string name="address">نشانی</string>
+    <string name="address_detail">رشت، بلوار لاکان، دانشگاه آزاد اسلامی، مجتمع فنی و مهندسی</string>
+    <string name="opening_hours">ساعت کاری</string>
+    <string name="opening_hours_detail">7:30 الی 15:00</string>
+
+    <!-- Dialog box -->
+    <string name="confirm">تأیید</string>
+    <string name="cancel">لغو</string>
+    <string name="email_confirm">آیا قصد ارسال ایمیل به شخص مورد نظر را دارید؟</string>
+    <string name="call_confirm">آیا قصد برقراری تماس با واحد مورد نظر را دارید؟</string>
+
+    <!-- Extra -->
+    <string name="education_unit">01333424083</string>
+    <string name="person">نفرات</string>
+    <string name="classes">کلاس‌ها</string>
+    <string name="go_to_top">برو به بالا</string>
+    <string name="university_unit">01333447898</string>
+    <string name="university_email">iaurasht.ac@gmail.com</string>
+</resources>
